@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "output": "./build",
+    "port": "/dev/ttyUSB0",
+    "sketch": "nano_builtin_led.ino"
+}

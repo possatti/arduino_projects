@@ -1,0 +1,7 @@
+{
+    "sketch": "rain.ino",
+    "output": "build",
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "port": "/dev/ttyUSB0"
+}
